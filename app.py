@@ -41,7 +41,6 @@ df = pd.read_csv(url)
 st.sidebar.header('Select Features to Predict Heart Disease')
 st.sidebar.image('https://art.pixilart.com/bde1aab50bb21a3.gif')
 
-random.seed(15)
 
 all_values=[]
 
